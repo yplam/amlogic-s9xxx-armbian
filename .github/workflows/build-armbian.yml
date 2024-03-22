@@ -179,6 +179,7 @@ on:
         type: choice
         options:
           - ophub/kernel
+          - yplam/amlogic-s9xxx-armbian
       kernel_usage:
         description: "Set the tags of the stable kernel."
         required: false
